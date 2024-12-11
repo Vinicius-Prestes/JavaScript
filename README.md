@@ -30,7 +30,7 @@ Uma aplicação React desenvolvida para explorar e demonstrar conceitos fundamen
    ```
 
 ## 🌐 Deploy
-Projeto hospedado na Vercel: [Link do Projeto]
+Projeto hospedado na Vercel: https://java-script-yi9x.vercel.app/
 
 ## 📚 Conceitos Abordados
 - Gerenciamento de variáveis
